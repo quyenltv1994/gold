@@ -9,6 +9,8 @@
     "font-awsome": "*",
     "swiper": "*",
     "wow-js-svg-fix": "*",
+    "pace": "0.5.6",
+    "OwlCarousel" : "*",
     "lodash": "*"
   }
 }
